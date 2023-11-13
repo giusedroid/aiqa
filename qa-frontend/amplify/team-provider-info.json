@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-qafrontend-dev-180629-authRole",
+      "UnauthRoleArn": "arn:aws:iam::934258583849:role/amplify-qafrontend-dev-180629-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::934258583849:role/amplify-qafrontend-dev-180629-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-qafrontend-dev-180629-deployment",
+      "UnauthRoleName": "amplify-qafrontend-dev-180629-unauthRole",
+      "StackName": "amplify-qafrontend-dev-180629",
+      "StackId": "arn:aws:cloudformation:us-west-2:934258583849:stack/amplify-qafrontend-dev-180629/0b81e320-80bd-11ee-b11e-0a4f753aec45",
+      "AmplifyAppId": "dqd76f0k16ce8"
+    },
+    "categories": {
+      "auth": {
+        "qafrontend": {}
+      },
+      "storage": {
+        "qafrontend7d6a043d": {
+          "bucketName": "qa-ingest-stack-us-west-2-934258583849",
+          "region": "us-west-2"
+        }
+      }
+    }
+  }
+}
